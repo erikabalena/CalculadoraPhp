@@ -1,0 +1,11 @@
+{
+    "name": "admin/projetophp",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+
+    "require": {}
+}
